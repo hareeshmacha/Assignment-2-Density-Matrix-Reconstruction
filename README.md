@@ -57,5 +57,5 @@ The model achieves near-perfect reconstruction on the test set:
 | **Mean Trace Distance** | **0.005** | 0.00 |
 | **Inference Latency** | **3.24 ms** | - |
 
-## 🤖 AI Attribution
+##  AI Attribution
 This project uses AI tools for setup and debugging. See [AI_USAGE.md](AI_USAGE.md) for details.
